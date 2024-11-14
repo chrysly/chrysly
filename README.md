@@ -1,8 +1,8 @@
-### Welcome to my Github!
+###✨Welcome to my repository!✨
 
 I am a design focused technical artist with a specialization in optimizing 3D asset pipelines.
 
-Right now I'm working on a 3D tower-offense game!
+Right now I'm working on a 3D tower-offense game! 🛠️
 
 <!--
 **chrysly/chrysly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
