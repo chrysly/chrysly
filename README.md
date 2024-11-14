@@ -1,4 +1,4 @@
-###✨Welcome to my repository!✨
+###Welcome to my repository!✨
 
 I am a design focused technical artist with a specialization in optimizing 3D asset pipelines.
 
